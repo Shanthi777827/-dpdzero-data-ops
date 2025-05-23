@@ -1,0 +1,21 @@
+agent_id,call_date,Total_Calls,Unique_Loans,completed_calls,Avgcall_Duration,Presence,connect_rate,users_first_name_x,users_last_name_x,users_office_location_x,org_id_x,Agent_Name,users_first_name_y,users_last_name_y,users_office_location_y,org_id_y,users_first_name,users_last_name,users_office_location,org_id
+A001,2025-04-28,20,20,2,6.843000000000001,1,0.1,AgentFirst1,AgentLast1,Bangalore,O1,AgentFirst1 AgentLast1,AgentFirst1,AgentLast1,Bangalore,O1,AgentFirst1,AgentLast1,Bangalore,O1
+A002,2025-04-28,23,23,3,7.827826086956521,1,0.13,AgentFirst2,AgentLast2,Delhi,O1,AgentFirst2 AgentLast2,AgentFirst2,AgentLast2,Delhi,O1,AgentFirst2,AgentLast2,Delhi,O1
+A003,2025-04-28,21,21,8,7.16952380952381,1,0.38,AgentFirst3,AgentLast3,Mumbai,O1,AgentFirst3 AgentLast3,AgentFirst3,AgentLast3,Mumbai,O1,AgentFirst3,AgentLast3,Mumbai,O1
+A004,2025-04-28,27,27,4,8.056666666666667,1,0.15,AgentFirst4,AgentLast4,Bangalore,O3,AgentFirst4 AgentLast4,AgentFirst4,AgentLast4,Bangalore,O3,AgentFirst4,AgentLast4,Bangalore,O3
+A005,2025-04-28,29,28,4,7.059310344827586,0,0.14,AgentFirst5,AgentLast5,Bangalore,O3,AgentFirst5 AgentLast5,AgentFirst5,AgentLast5,Bangalore,O3,AgentFirst5,AgentLast5,Bangalore,O3
+A006,2025-04-28,16,16,2,8.8375,1,0.12,AgentFirst6,AgentLast6,Chennai,O1,AgentFirst6 AgentLast6,AgentFirst6,AgentLast6,Chennai,O1,AgentFirst6,AgentLast6,Chennai,O1
+A007,2025-04-28,24,23,5,7.040416666666666,1,0.21,AgentFirst7,AgentLast7,Bangalore,O1,AgentFirst7 AgentLast7,AgentFirst7,AgentLast7,Bangalore,O1,AgentFirst7,AgentLast7,Bangalore,O1
+A008,2025-04-28,29,29,8,6.603103448275863,1,0.28,AgentFirst8,AgentLast8,Mumbai,O1,AgentFirst8 AgentLast8,AgentFirst8,AgentLast8,Mumbai,O1,AgentFirst8,AgentLast8,Mumbai,O1
+A009,2025-04-28,26,25,7,7.387307692307692,1,0.27,AgentFirst9,AgentLast9,Bangalore,O3,AgentFirst9 AgentLast9,AgentFirst9,AgentLast9,Bangalore,O3,AgentFirst9,AgentLast9,Bangalore,O3
+A010,2025-04-28,38,38,7,8.078947368421053,1,0.18,AgentFirst10,AgentLast10,Mumbai,O3,AgentFirst10 AgentLast10,AgentFirst10,AgentLast10,Mumbai,O3,AgentFirst10,AgentLast10,Mumbai,O3
+A011,2025-04-28,22,22,5,9.066818181818181,1,0.23,AgentFirst11,AgentLast11,Chennai,O1,AgentFirst11 AgentLast11,AgentFirst11,AgentLast11,Chennai,O1,AgentFirst11,AgentLast11,Chennai,O1
+A012,2025-04-28,20,20,5,7.1034999999999995,0,0.25,AgentFirst12,AgentLast12,Chennai,O3,AgentFirst12 AgentLast12,AgentFirst12,AgentLast12,Chennai,O3,AgentFirst12,AgentLast12,Chennai,O3
+A013,2025-04-28,22,22,2,6.876363636363636,1,0.09,AgentFirst13,AgentLast13,Delhi,O1,AgentFirst13 AgentLast13,AgentFirst13,AgentLast13,Delhi,O1,AgentFirst13,AgentLast13,Delhi,O1
+A014,2025-04-28,30,30,10,7.701,1,0.33,AgentFirst14,AgentLast14,Mumbai,O3,AgentFirst14 AgentLast14,AgentFirst14,AgentLast14,Mumbai,O3,AgentFirst14,AgentLast14,Mumbai,O3
+A015,2025-04-28,28,27,4,8.508214285714285,1,0.14,AgentFirst15,AgentLast15,Chennai,O2,AgentFirst15 AgentLast15,AgentFirst15,AgentLast15,Chennai,O2,AgentFirst15,AgentLast15,Chennai,O2
+A016,2025-04-28,22,22,6,8.701818181818181,1,0.27,AgentFirst16,AgentLast16,Delhi,O1,AgentFirst16 AgentLast16,AgentFirst16,AgentLast16,Delhi,O1,AgentFirst16,AgentLast16,Delhi,O1
+A017,2025-04-28,20,19,2,6.672499999999999,1,0.1,AgentFirst17,AgentLast17,Mumbai,O2,AgentFirst17 AgentLast17,AgentFirst17,AgentLast17,Mumbai,O2,AgentFirst17,AgentLast17,Mumbai,O2
+A018,2025-04-28,35,34,6,7.489142857142857,0,0.17,AgentFirst18,AgentLast18,Bangalore,O1,AgentFirst18 AgentLast18,AgentFirst18,AgentLast18,Bangalore,O1,AgentFirst18,AgentLast18,Bangalore,O1
+A019,2025-04-28,27,27,6,6.917777777777778,1,0.22,AgentFirst19,AgentLast19,Chennai,O1,AgentFirst19 AgentLast19,AgentFirst19,AgentLast19,Chennai,O1,AgentFirst19,AgentLast19,Chennai,O1
+A020,2025-04-28,21,21,7,6.562857142857142,1,0.33,AgentFirst20,AgentLast20,Delhi,O2,AgentFirst20 AgentLast20,AgentFirst20,AgentLast20,Delhi,O2,AgentFirst20,AgentLast20,Delhi,O2
