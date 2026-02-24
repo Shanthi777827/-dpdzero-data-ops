@@ -37,8 +37,8 @@ summary = merged.groupby(["agent_id", "call_date"]).agg(
     unique_loans=("installment_id", pd.Series.nunique),
     completed_calls=("status", lambda x: (x == "completed").sum()),
     avg_duration=("duration", "mean"),
-    presence=("login_time", lambda x: 1 if x.notnull().any() else 0),
-).reset_index()
+    presence=("login_time", lambda x: 1 if x.notnull().any() else 0)
+                  ).reset_index()
 
 summary["connect_rate"] = (summary["completed_calls"] / summary["total_calls"]).round(2)
 summary["avg_duration"] = summary["avg_duration"].round(2)
@@ -60,3 +60,4 @@ print(f"""Agent Summary for {report_date}
 Top Performer   : {top_agent['agent_name']} ({int(top_agent['connect_rate'] * 100)}% connect rate)
 Active Agents   : {int(active_agents)}
 Avg Call Duration: {avg_dur} min""")
+
